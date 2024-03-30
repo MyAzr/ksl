@@ -7,5 +7,9 @@ DT rafis https://skins.osuck.net/skins/56?v=0
 DT boop https://skins.osuck.net/skins/1671?v=0
 ![](https://files.osuck.link/images/skins/7d8125ebfece7ff4bbc5b38adbffc78c.webp)
 
+aristia https://skins.osuck.net/skins/863?v=0
+![](https://files.osuck.link/images/skins/f023275baf7f83b81ad25ad4d5ff7e9a.webp)
+
 emilia as an anime girl https://skins.osuck.net/skins/1287
-![](https://files.osuck.link/images/skins/381e2beb54cd981d8da580713e3cd027.webp)
+![](https://files.osuck.link/images/skins/b17cdbfee7eaa49536940f17507e636b.webp)
+
