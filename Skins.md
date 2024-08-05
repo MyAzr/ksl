@@ -7,6 +7,9 @@ DT rafis https://skins.osuck.net/skins/56?v=0
 DT boop https://skins.osuck.net/skins/1671?v=0
 ![](https://files.osuck.link/images/skins/7d8125ebfece7ff4bbc5b38adbffc78c.webp)
 
+DT karthy https://skins.osuck.net/skins/413?v=0
+![](https://files.osuck.link/images/skins/230b7f4856c46a8a3d9634062a06889e.webp)
+
 aristia https://skins.osuck.net/skins/863?v=0
 ![](https://files.osuck.link/images/skins/f023275baf7f83b81ad25ad4d5ff7e9a.webp)
 
