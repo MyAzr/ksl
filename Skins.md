@@ -11,7 +11,7 @@ DT karthy https://skins.osuck.net/skins/413?v=0
 ![](https://files.osuck.link/images/skins/230b7f4856c46a8a3d9634062a06889e.webp)
 
 aristia idke cursor https://skins.osuck.net/skins/866?v=0
-![](https://files.osuck.link/images/skins/953ca834deb2ffa34bdc4814e09422c4_xs.webp)
+![](https://files.osuck.link/images/skins/953ca834deb2ffa34bdc4814e09422c4.webp)
 
 emilia as an anime girl https://skins.osuck.net/skins/1287
 ![](https://files.osuck.link/images/skins/b17cdbfee7eaa49536940f17507e636b.webp)
