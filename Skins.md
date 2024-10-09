@@ -16,3 +16,5 @@ aristia idke cursor https://skins.osuck.net/skins/866?v=0
 emilia as an anime girl https://skins.osuck.net/skins/1287
 ![](https://files.osuck.link/images/skins/b17cdbfee7eaa49536940f17507e636b.webp)
 
+zerino https://skins.osuck.net/ru/skins/2922?v=0 (red cursor from buebleman skin https://skins.osuck.net/ru/skins/1145?v=0)
+![](https://files.osuck.link/images/skins/0d67096cbc0210e1d13ac17b575ca858.webp)
