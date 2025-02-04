@@ -18,3 +18,6 @@ emilia as an anime girl https://skins.osuck.net/skins/1287
 
 zerino https://skins.osuck.net/ru/skins/2922?v=0 (red cursor from buebleman skin https://skins.osuck.net/ru/skins/1145?v=0)
 ![](https://files.osuck.link/images/skins/0d67096cbc0210e1d13ac17b575ca858.webp)
+
+asuna https://skins.osuck.net/skins/786?v=0
+![](https://skins.osuck.net/images/screenshots/4b114478b9368c30b3009f2caae7838d.webp)
