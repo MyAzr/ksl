@@ -21,3 +21,6 @@ zerino https://skins.osuck.net/ru/skins/2922?v=0 (red cursor from buebleman skin
 
 asuna https://skins.osuck.net/skins/786?v=0
 ![](https://skins.osuck.net/images/screenshots/4b114478b9368c30b3009f2caae7838d.webp)
+
+_• zadymiarz bandana 1 https://drive.google.com/file/d/1A1FliHlv0v2fizDhfC0ltIU7rQhVRwcw/view
+![image](https://github.com/user-attachments/assets/befb7fb0-8ccc-46d7-a17a-a46e31a298e3)
