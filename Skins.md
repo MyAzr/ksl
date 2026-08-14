@@ -1,4 +1,4 @@
-becon https://skins.osuck.net/skins/1648?v=0
+becon [https://skins.osuck.net/skins/1648?v=0](https://skins.osuck.net/images/screenshots/be60f582d0c541b13603d97cdfef40e6.webp)
 ![image](https://skins.osuck.net/images/screenshots/be60f582d0c541b13603d97cdfef40e6.webp)
 
 DT rafis https://skins.osuck.net/skins/56?v=0
@@ -24,3 +24,5 @@ asuna https://skins.osuck.net/skins/786?v=0
 
 _• zadymiarz bandana 1 https://drive.google.com/file/d/1A1FliHlv0v2fizDhfC0ltIU7rQhVRwcw/view
 ![image](https://github.com/user-attachments/assets/befb7fb0-8ccc-46d7-a17a-a46e31a298e3)
+
+
